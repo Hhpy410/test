@@ -1,0 +1,90 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700&display=swap');
+
+#body {font-family:'Noto Sans KR',sans-serif !important;}  
+#body #Content{font-family:'Noto Sans KR',sans-serif !important;} 
+#body .sapMPanel .sapMPanelHdr{font-family:'Noto Sans KR',sans-serif;}
+#body .sapUiForm .sapUiFormTitle{display: table;height: 100%;font-family:'Noto Sans KR',sans-serif;}
+#body .sapMLabel{font-family:'Noto Sans KR',sans-serif;}
+#body .sapMLnk{font-family:'Noto Sans KR',sans-serif;font-size:14px;}
+#body .sapMLnk:hover{text-decoration:underline;}
+#body .sapMPanel .sapMListHdrText{font-family:'Noto Sans KR',sans-serif;}
+#body .sapMTitle{font-family:'Noto Sans KR',sans-serif;}
+#body .sapMText{font-family:'Noto Sans KR',sans-serif;}
+#body .sapMLabel{font-family:'Noto Sans KR',sans-serif;}
+#body .sapMBtnInner{font-family:'Noto Sans KR',sans-serif;}
+#body .sapMBtnContent{font-family:'Noto Sans KR',sans-serif;}
+#body .sapMInputDescriptionText{font-family:'Noto Sans KR',sans-serif;}
+#body .sapMInputBaseInner{font-family:'Noto Sans KR',sans-serif;}
+/*sapUiMedia-Std-Desktop*/
+/*sapUiMedia-Std-Tablet*/
+/*sapUiMedia-Std-Phone*/
+.sapMOHRTitleText{font-family:'Noto Sans KR',sans-serif;}
+.sapUiBody .sapMMessageToast{background:#364a63;color:#fff;border:1px solid #364a63;font-size:16px;padding:25px 20px; font-family:'Noto Sans KR',sans-serif;}
+.sapMOHR .sapMOHRAttr .sapMObjectAttributeTitle, .sapMOHR .sapMOHRAttr .sapMObjectAttributeText{font-family:'Noto Sans KR',sans-serif;}
+.sapMOHRTitleIcon>.sapMOHRTitle{margin-left:6rem;}
+.sapMOHRIcon .sapMImg{max-width:5rem;max-height:5rem;}
+.sapUiMedia-Std-Phone .sapMOHRHideIcon{display: initial; visibility: visible;}
+/*.sapUiMedia-Std-Phone .sapMOHRStates{padding-top:2rem;}*/
+.sapUiMedia-Std-Phone .sapMOHRTitle{margin-left:6rem;}
+
+.sapMOHRTitle{padding-top:10px;}
+.sapMOHRTwoCols.sapMOHRStatesCont2{text-align:start;}
+.sapUiMedia-Std-Phone .sapMOHRAttr{float:left; width:50%;}
+.sapMOHRAttr{float:left; width:50%;}
+.sapUiMedia-Std-Phone .sapMOHR .sapMOHRAttr .sapMObjectAttributeColon{vertical-align: middle!important}
+
+/*.ui5StHead001{padding:5px;}*/
+.ui5StHead001{overflow:visible;}
+.ui5StHead001 .sapMOHRAttr{padding-bottom:0;}
+.ui5StHead001 .sapMOHR.sapMOHRBgTranslucent{border-radius: 7px;}
+
+.ui5UsageAreaBox .u4aMUsageArea{height:auto !important;}
+.ui5UsageAreaBox .u4aMUsageArea .sapMNavItem{position: relative;overflow: auto;}
+.ui5UsageAreaBox .u4aMUsageArea .sapMNavItem.sapMPage{position: relative;overflow: visible;}
+.ui5UsageAreaBox .u4aMUsageArea .sapMPage>section{position:relative;left:auto;right:auto;}
+.ui5UsageAreaBox.sapMFlexBox{height:auto!important}
+.ui5UsageAreaBox .u4aMUsageArea .sapMPage>.sapMPageHeader+section, 
+.ui5UsageAreaBox .u4aMUsageArea .sapMPage>.sapMPageSubHeader+section, 
+.ui5UsageAreaBox .u4aMUsageArea .sapMPage>.sapMPageHeader+.sapUiHiddenPlaceholder+section{top:auto;}
+.ui5UsageAreaBox .sapMNav, .ui5UsageAreaBox .sapMNav .sapMPageEnableScrolling{overflow:visible !important;}
+
+
+.sapMPanel {box-shadow: 0 0 0.25rem 0 rgb(0 0 0 / 15%), inset 0 -0.0625rem 0 0 #d9d9d9; border-radius:7px;}
+.sapMPanelWrappingDiv.sapMPanelWrappingDivExpanded{border-bottom-width:.0625rem ;}
+.ui5XXXXLMarginBottom{margin-bottom:100px;}
+
+.ui5ObjectHeader .sapUxAPObjectPageHeaderDetails {height:auto !important;}
+.ui5ObjectHeader .sapUxAPObjectPageHeaderContent {padding:0!important}
+.ui5ObjectHeader .sapUxAPBlockContainer {padding:0!important}
+.ui5ObjectHeader .sapUxAPObjectPageContainer{background-color:transparent;}
+.ui5ObjectHeader .sapUxAPObjectPageSection{box-shadow: 0 0 0.25rem 0 rgb(0 0 0 / 15%), inset 0 -0.0625rem 0 0 #d9d9d9; margin-bottom:1rem;}
+.ui5ObjectHeader .sapUxAPObjectPageHeaderContent .sapUxAPObjectPageHeaderContentItem{margin:0;}
+.ui5ObjectHeader .sapMPage.sapUiContentPadding > section {padding-top:0;}
+.ui5ObjectHeader .ui5StHead001{padding:5px;}
+
+.sapMPageHeader .sapMTitle{font-size:19px !important; font-weight:500;}
+.sapUiFormResGridCont{padding-bottom: 15px;}
+.sapUiFormEdit.sapUiFormM .sapUiRespGridMedia-Std-Phone.sapUiFormResGridCont>.sapUiFormElementLbl:not(.sapUiRespGridSpanS12), .sapUiFormEdit.sapUiFormM .sapUiRespGridMedia-Std-Tablet.sapUiFormResGridCont>.sapUiFormElementLbl:not(.sapUiRespGridSpanM12), .sapUiFormEdit.sapUiFormM .sapUiRespGridMedia-Std-Desktop.sapUiFormResGridCont>.sapUiFormElementLbl:not(.sapUiRespGridSpanL12), .sapUiFormEdit.sapUiFormM .sapUiRespGridMedia-Std-LargeDesktop.sapUiFormResGridCont>.sapUiFormElementLbl:not(.sapUiRespGridSpanXL12){padding-top:11px;}
+.sapUiForm .sapMLabel .sapMLabelTextWrapper{font-weight:500 !important;}
+.sapUiFormTitle, .sapMTitle, .sapMListHdrText, .sapMPanelHdr{font-size:16px !important; font-weight:500 !important; font-family: 'Noto Sans KR',sans-serif !important; }
+.sapMOHR .sapMOHRAttr .sapMObjectAttributeColon{display:none;}
+
+.sapMLabel .sapMLabelTextWrapper{font-weight:500;}
+.sapMColumnHeader{padding:.5rem 0.5rem 0.5rem;}
+
+ .sapMListTbl .sapMListTblSubCntRow .sapMListTblSubCntValInline .sapMCbDisplayOnly .sapMCbBg {left:0; top:0; height:1.2rem;}
+ .sapMListTbl .sapMListTblSubCntRow .sapMListTblSubCntValInline .sapMCb{height:1.2rem;}
+ .sapMList .sapMListHdrText{padding-left:0.25rem;}
+ .sapMListTbl .sapMListTblSubCntRow .sapMListTblSubCntValInline .sapMBtn.sapUiSizeCompact {padding-top:0;padding-bottom:0;height:auto;}
+ 
+
+.sapUiMedia-Std-Phone .sapMListTblSubCntVal {float:right;}
+.sapMObjStatus .sapMObjStatusText, .sapMObjStatus .sapMObjStatusIcon{padding:5px;}
+
+
+
+
+
+
