@@ -305,7 +305,9 @@
 }
 .Ui5FooterButtonCenter {margin-left:4.4rem;}
 
-
+.sapMPanelWrappingDivTb.sapMPanelWrappingDivTbExpanded {
+    border-bottom-width:0.0625rem;
+}
 
 
 
