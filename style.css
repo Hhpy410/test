@@ -312,5 +312,5 @@
 .sapMMsgStripMessage{max-height:20rem;}
 .sapMObjectIdentifier{margin:5px 0;}
 .sapMObjectIdentifierTextBellow{margin-top:0;}
-
+.sapMMsgStripMessage .sapMText{padding-top:0; padding-bottom:0;}
 
