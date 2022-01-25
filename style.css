@@ -234,7 +234,7 @@
 }
 
 .sapUiFormResGridCont {
-    padding-bottom: 15px;
+    padding-bottom: 1rem;
 }
 
 .sapUiFormEdit.sapUiFormM .sapUiRespGridMedia-Std-Phone.sapUiFormResGridCont>.sapUiFormElementLbl:not(.sapUiRespGridSpanS12),
