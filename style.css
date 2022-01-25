@@ -319,3 +319,6 @@
     width: 100%;
     text-align: center;
 }
+html.sap-phone .sapMDialog>footer .sapMFooter-CTX {
+    justify-content: center;
+}
