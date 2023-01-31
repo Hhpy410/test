@@ -2,7 +2,7 @@
 #body {
     font-family: 'Noto Sans KR', sans-serif !important;
 }
-
+div.Body{border:1px solid red;}
 #body #Content {
     font-family: 'Noto Sans KR', sans-serif !important;
 }
