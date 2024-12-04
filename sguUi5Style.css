@@ -109,6 +109,7 @@
 }
 .sguGr600 .sapUiLoSplitter .sapUiLoSplitterContent{
   padding: 0.75rem;
+  box-sizing: border-box;
 }
 .sapMDialog > .sapMDialogSection {
   padding: 0.75rem !important;
