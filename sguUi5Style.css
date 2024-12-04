@@ -276,6 +276,11 @@
 .ui5UsageAreaBox .sapMNav .sapMPageEnableScrolling {
   overflow: visible !important;
 }
+
+.sapUiSizeCompact .sapMTreeItemBaseExpander{
+  width:25px !important;
+  margin-right:5px;
+}
 .sapUiSizeCompact .sapMTreeItemBaseExpander:hover{
       box-shadow: 0 0 .125rem 0 rgba(85, 107, 130, 0.72);
 }
