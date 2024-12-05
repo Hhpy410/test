@@ -293,11 +293,11 @@
 .sapUiSizeCompact .sapMTreeItemBaseExpander:hover{
       box-shadow: 0 0 .125rem 0 rgba(85, 107, 130, 0.72);
 }
-.sguTreeSC {
+.sguTreeSC:not(:hover) {
     background-color: white !important;
     border-bottom: 1px solid #e5e5e5 !important;
 }
-.sguTreeSC:hover{background-color:#eaecee;}
+/* .sguTreeSC:hover{background-color:#eaecee;} */
 .sguTreeO {
     border-bottom: 1px solid #e5e5e5 !important;
 }
