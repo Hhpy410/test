@@ -161,11 +161,13 @@
   border-color: #b30000 !important;
 }
 
-.sapMPanel .sapMTB.sapMTBStandard,
-.sapMPanel > .sapMPanelHdr {
+.sapMPanel:not(.sapMPanelExpandable) .sapMTB.sapMTBStandard, 
+.sapMPanel:not(.sapMPanelExpandable) > .sapMPanelHdr {
   border-bottom: solid 0.0625rem #7d0000 !important;
 }
-
+.sapMPanel .sapMPanelWrappingDivTb.sapMPanelWrappingDivTbExpanded{
+  border-bottom: solid 0.0625rem #7d0000 !important;
+}
 .sapMPanel .sapMIBar.sapMTB .sapMBarChild {
   margin-left: 0 !important;
 }
