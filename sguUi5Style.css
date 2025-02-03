@@ -169,7 +169,7 @@
   border-bottom: solid 0.0625rem #7d0000 !important;
 }
 .sapMPanel .sapMIBar.sapMTB .sapMBarChild {
-  margin-left: 0 !important;
+/*   margin-left: 0 !important; */
 }
 .sapUiForm .sapMTB {
   height: 2rem !important;
