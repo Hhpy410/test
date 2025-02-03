@@ -308,5 +308,10 @@
   padding-bottom:0 !important;
 }
 
-
+.sapMDialog>header.sapMDialogTitle .sapMTitle{
+  font-weight:bold;
+}
+.sapMDialog>header:last-of-type .sapMIBar{
+  box-shadow: 0 .125rem .125rem 0 rgba(85, 107, 130, 0.05), inset 0 -0.0625rem 0 0 #7d0000 !important;
+}
 
